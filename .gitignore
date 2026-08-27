@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment secrets
+.env
+
+# Uploaded/generated data
+uploads/
+
+# Node / frontend
+node_modules/
+dist/
+.vite/
+
+# Editor/OS junk
+.vscode/
+.DS_Store
+Thumbs.db
